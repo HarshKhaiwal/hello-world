@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+hello 
+I like python and c++
